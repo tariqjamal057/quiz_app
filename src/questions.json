@@ -39,7 +39,7 @@
     "category": "Entertainment Comics",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Who is the creator of the comic series %22The Walking Dead%22",
+    "question": "Who is the creator of the comic series The Walking Dead",
     "correct_answer": "Robert Kirkman",
     "incorrect_answers": [
       "Stan Lee",
@@ -51,7 +51,7 @@
     "category": "Entertainment Board Games",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "At the start of a standard game of the Monopoly%2C if you throw a double six%2C which square would you land on",
+    "question": "At the start of a standard game of the Monopoly if you throw a double six which square would you land on",
     "correct_answer": "Electric Company",
     "incorrect_answers": [
       "Water Works",
@@ -98,11 +98,11 @@
     "type": "multiple",
     "difficulty": "medium",
     "question": "In 2013 how much money was lost by Nigerian scams",
-    "correct_answer": "%2412.7 Billion",
+    "correct_answer": "2412.7 Billion",
     "incorrect_answers": [
-      "%2495 Million",
-      "%24956 Million",
-      "%242.7 Billion"
+      "2495 Million",
+      "24956 Million",
+      "242.7 Billion"
     ]
   },
   {
@@ -121,19 +121,19 @@
     "category": "Entertainment Video Games",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In World of Warcraft lore%2C who organized the creation of the Paladins",
+    "question": "In World of Warcraft lore who organized the creation of the Paladins",
     "correct_answer": "Alonsus Faol",
     "incorrect_answers": [
       "Uther the Lightbringer",
       "Alexandros Mograine",
-      "Sargeras%2C The Daemon Lord"
+      "Sargeras The Daemon Lord"
     ]
   },
   {
     "category": "Entertainment Video Games",
     "type": "boolean",
     "difficulty": "medium",
-    "question": "In the game %22Subnautica%22%2C a %22Cave Crawler%22 will attack you.",
+    "question": "In the game Subnautica a Cave Crawler will attack you.",
     "correct_answer": "True",
     "incorrect_answers": [
       "False"
@@ -143,7 +143,7 @@
     "category": "Entertainment Japanese Anime %26 Manga",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What is the name of the device that allows for infinite energy in the anime %22Dimension W%22",
+    "question": "What is the name of the device that allows for infinite energy in the anime Dimension W",
     "correct_answer": "Coils",
     "incorrect_answers": [
       "Wires",
@@ -155,7 +155,7 @@
     "category": "Entertainment Video Games",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What is the name of Cream the Rabbit mom in the %22Sonic the Hedgehog%22 series",
+    "question": "What is the name of Cream the Rabbit mom in the Sonic the Hedgehog series",
     "correct_answer": "Vanilla",
     "incorrect_answers": [
       "Peach",
@@ -179,7 +179,7 @@
     "category": "Entertainment Television",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which of these voices wasnt a choice for the House AI in %22The Simpsons Treehouse of Horror%22 short%2C House of Whacks",
+    "question": "Which of these voices wasnt a choice for the House AI in The Simpsons Treehouse of Horror short House of Whacks",
     "correct_answer": "George Clooney",
     "incorrect_answers": [
       "Matthew Perry",
@@ -191,7 +191,7 @@
     "category": "Entertainment Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "From which album is the Gorillaz song%2C %22On Melancholy Hill%22 featured in",
+    "question": "From which album is the Gorillaz song On Melancholy Hill featured in",
     "correct_answer": "Plastic Beach",
     "incorrect_answers": [
       "Demon Days",
@@ -213,7 +213,7 @@
     "category": "Entertainment Video Games",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In Left 4 Dead%2C which campaign has the protagonists going through a subway in order to reach a hospital for evacuation",
+    "question": "In Left 4 Dead which campaign has the protagonists going through a subway in order to reach a hospital for evacuation",
     "correct_answer": "No Mercy",
     "incorrect_answers": [
       "Subway Sprint",
