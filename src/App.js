@@ -8,6 +8,16 @@ function App() {
   const [count, setcount] = useState(0)
   let a = []
 
+
+  function addArr(arr , c) {
+    arr.map((e)=> (
+      a.push(e)
+    ))
+    a.push(c)
+    randomChoice(a)
+  } 
+  addArr(data[count].incorrect_answers , data[count].correct_answer)
+  console.log("kjgjhghg")
   const randomChoice = (arr)=>{
     let b = []
     while(b.length < 3) {
@@ -21,18 +31,6 @@ function App() {
       return <button type="button">{opt}</button>
   })
   }
-
-  function addArr(arr , c) {
-    arr.map((e)=> (
-      a.push(e)
-    ))
-    a.push(c)
-    console.log(a)
-    randomChoice(a)
-  } 
-  console.log("kjgjhghg")
-  console.log(a)
-
 
   return (
     <div className="App">
@@ -83,7 +81,7 @@ function App() {
             <p className="qn">{data[count].question}</p>
             {data[count].type === 'multiple' ? 
             <div className="option">
-              {addArr(data[count].incorrect_answers , data[count].correct_answer)}
+              {randomChoice(a)}
             </div> :
             <div className="option">
               <button type="button">yes</button>
